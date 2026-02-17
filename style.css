@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(135deg,#00adb5,#393e46);
+}
+
+.card{
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    width:90%;
+    max-width:350px;
+    text-align:center;
+    box-shadow:0 10px 25px rgba(0,0,0,0.2);
+}
+
+.search{
+    margin:20px 0;
+}
+
+.search input{
+    padding:10px;
+    width:65%;
+}
+
+.search button{
+    padding:10px;
+    border:none;
+    background:#004eb5;
+    color:white;
+    cursor:pointer;
+    border-radius:5px;
+}
+
+.weather{
+    margin-top:20px;
+}
