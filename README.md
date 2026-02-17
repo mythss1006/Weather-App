@@ -1,19 +1,21 @@
-Excited to share my Weather App Web Application project!
+Weather App Web Application
 
-As part of my web development learning journey, I built a weather application that fetches real-time weather data and displays it in a simple and user-friendly interface.
- Key Features: 
-• Search weather by city name
-• Real-time weather information
-• Temperature and weather condition display
-• Responsive design
-• Clean UI
+## GitHub Repository Link: https://github.com/mythss1006/Weather-App
 
-Technologies Used: HTML, CSS, JavaScript, Weather API
+## Live Demo Link: https://mythss1006.github.io/Weather-App/
+## Project Description
+The Weather App is a fully responsive and interactive web application that provides real-time weather information for any city worldwide. Users can search for a city and view temperature, weather conditions, humidity, and wind speed in an easy-to-read interface. The app fetches live data from a public weather API and displays it dynamically with interactive icons and styles.  
 
-GitHub Repository: https://github.com/mythss1006/Weather-App
+## Features
+- Search for any city globally
+- Display current temperature in Celsius and Fahrenheit
+- Show weather conditions (sunny, cloudy, rainy, etc.) with icons
+- Display humidity and wind speed
+- Responsive design for desktop and mobile devices
+- Error handling for invalid city names or API issues
 
-Live Demo: https://mythss1006.github.io/Weather-App/
-
-This project helped me understand API integration, asynchronous JavaScript, and dynamic data handling.
-I would love to hear your feedback and suggestions! 
-#WebDevelopment #prodigyinfotech #WeatherApp #Dgvaishnavcollege
+## Technologies Used
+- **HTML** – Structure of the app
+- **CSS** – Styling and responsive design
+- **JavaScript** – API calls and dynamic DOM updates
+- **API** – OpenWeatherMap API for real-time weather data
